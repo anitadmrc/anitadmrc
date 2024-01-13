@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding & art!
 - 🌱 I’m currently practicing JavaScript
 - 💞️ I’m looking to collaborate on code projects!
-- 📫 You can reach me via social links
+- 📫 You can reach me from my social media accounts
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can speak Turkish fluently!
 
