@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anitadmrc
-- 👀 I’m interested in coding, art, music
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in coding & art!
+- 🌱 I’m currently practicing JavaScript
 - 💞️ I’m looking to collaborate on code projects!
 - 📫 You can reach me via email
 - 😄 Pronouns: she/her
