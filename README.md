@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anita!
+- 👋 ///**Hi, I’m Anita!**
 - 👀 I’m interested in coding & art!
 - 🌱 I’m currently practicing JavaScript
 - 💞️ I’m looking to collaborate on code projects!
