@@ -1,4 +1,6 @@
-- 👋 ///**Hi, I’m Anita!**
+👋 **Hi, I’m Anita!**
+  🎓 Senior at CSULB, studying Computer Science
+  🔭 Aspiring Software Engineer and Machine Learning Enthusiast
 - 👀 I’m interested in coding & art!
 - 🌱 I’m currently practicing JavaScript
 - 💞️ I’m looking to collaborate on code projects!
