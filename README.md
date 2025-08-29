@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anitadmrc" alt="anitadmrc" /></a> </p>
 
-- 🔭 I’m currently working on [University Clustering @ Saciva](https://github.com/anitadmrc/Saciva_Universities_Clustering_1B)
-
-- 🌱 I’m currently learning **Haskell**
-
 - 📫 How to reach me **anitademirci2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
